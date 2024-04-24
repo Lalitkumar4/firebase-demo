@@ -2,7 +2,7 @@
 
 # Technologies
 
-- `JavaScript`
+- `Vanilla JavaScript`
 - `Firebase`
 - `Webpack`
 
